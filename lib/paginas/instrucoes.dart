@@ -5,14 +5,15 @@ class Instrucoes extends StatelessWidget {
   double maior;
   double menor;
   VasosIndexados vaso;
-
-  Instrucoes(this.maior, this.menor, this.vaso);
+  Color cor;
+  Instrucoes(this.maior, this.menor, this.vaso, this.cor);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text('diagrama'),
+        backgroundColor: cor,
       ),
       backgroundColor: Color(0xFFFFEAEC),
       body: _body(),
@@ -22,7 +23,7 @@ class Instrucoes extends StatelessWidget {
   _body(){
     return  Container(
       margin: EdgeInsets.fromLTRB(menor * 0.015, menor * 0.015, menor * 0.015, 0),
-      color: Color(0xFFC8213A),
+      color: cor,
       child: ListView(
         children:  _diagramador()
         ,
@@ -45,8 +46,8 @@ class Instrucoes extends StatelessWidget {
       );
       Widget imagem = Center(
         child: Container(
-          width: menor * 0.8,
-          height: menor * 0.8,
+          width: menor * 0.9,
+          height: menor * 0.9,
           child: Image.asset(
             'assets/vasos/${vaso.titulo}_$contador.png',
             fit: BoxFit.contain,

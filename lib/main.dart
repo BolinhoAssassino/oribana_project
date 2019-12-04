@@ -8,8 +8,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: true,
-      title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
+      title: 'Oribana Project',
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
