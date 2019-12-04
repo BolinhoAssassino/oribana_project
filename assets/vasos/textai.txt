@@ -1,0 +1,55 @@
+//Caixa estrelada
+'1 Dobre um triangulo equilátero do ponto X ao ponto Y. Caso o seu papel seja quadrado, pule para a etapa 3',
+'2 Remova a parte restante que ficou fora do triangulo',
+'3 Leve X até Y em seguida desdobre o papel e vire para o lado oposto.',
+'4 Dobre no meio do quadrado do ponto X ao ponto Y',
+'5 Repita no eixo oposto e mantenha dobrado',
+'6 Abra um pouco no meio e segure nos pontos X e Y, em seguida empurre.',
+'7 Dobre a ponta X até o ponto Y. Use a linha do meio como referência.',
+'8 Dobre a ponta X até Y em os lados usando a dobra como referência',
+'9 Levante a parte de cima e empurre a parte dobrada anteriormente.',
+'10 Dobre a parte restante para dentro.',
+'11 Dobre Repita isso para a ponta .',
+'12 Vire e repita nas pontas restantes.',
+'13 Dobre para trás',
+'14 Leve X até Y dobrando na parte indicada.',
+'15 Leve Y até X dobrando na parte indicada.',
+'16 Repita isso para as outras pontas.',
+'17 Abra a caixa dobrando as partes dobradas de dentro para fora.',
+'18 Caixa pronta!',
+//Oasis estrelada
+'19 Separe um pedaço de esponja floral e um pedaço de plástico maleável .',
+'20 Coloque a esponja floral no centro do pedaço de plástico.',
+'21 Coloque tudo dentro da caixa .',
+
+// caixa quadrada
+' Dobre um triangulo equilátero do ponto X ao ponto Y. Caso o seu papel seja quadrado, pule para a etapa 3',
+' Remova a parte restante que ficou fora do triangulo',
+' Leve X até Y em seguida desdobre o papel e vire para o lado oposto.',
+' Dobre no meio do quadrado do ponto X ao ponto Y',
+' Repita no eixo oposto e mantenha dobrado',
+' Dobre na linha indicada levando a ponta Y ao ponto X e faça o mesmo do outro lado do quadrado',
+' Traga a primeira ponta(X) até o ponto Y e faça o mesmo do outro lado do quadrado',
+' Dobre na linha indicada levando a primeira ponta X até o ponto Y faça o mesmo do lado oposto',
+' ',
+' Leve a ponta X a ponta Y dobrando na linha indicada, que também é o limite da geometria abaixo. ',
+' Leve a ponta X a ponta Y dobrando na linha indicada. ',
+' Leve a ponta X para baixo até chegar ao ponto Y dobrando na linha indicada. ',
+' Coloque a parte dobrada para dentro.',
+' Faça isso no lado oposto',
+' Volte para o lado do início.',
+' Levante a ponta X dobrando no limite indicado que são as pontas laterais.',
+' Leve a ponta X para baixo até chegar ao ponto Y. ',
+' Jogue tudo isso para dentro.'
+' Levante a ponta X dobrando na linha indicada marcando os limites do vaso.'
+' Abra a caixa dobrando as partes dobradas de dentro para fora.',
+' Caixa Pronta!.',
+
+//Oasis estrelada
+' Separe um pedaço de esponja floral e um pedaço de plástico maleável .',
+' Coloque a esponja floral no centro do pedaço de plástico.',
+' Coloque tudo dentro da caixa .',
+
+
+
+//V
